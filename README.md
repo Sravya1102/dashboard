@@ -26,9 +26,6 @@ The solution has been developed using a mock API, provided by: [https://jsonplac
   - Upon failed login (email not found), display an error message
 - After successful login, user will be in a "logged in state"
   - Show "To Do" page as the landing page
-   
- 
-![Sample](src/assets/readme-1.png)
 
 ### 2. Navigation Bar (after login)
 
@@ -40,8 +37,6 @@ Once a user is logged in, there will be a persistent navigation bar.
 - Display the user’s name with hyperlink to website (Company’s name), example: Leanne Graham (Romaguera-Crona) 
 - A button to log out
   -  On click, the user should be returned to the login screen
-      
-![Sample](src/assets/readme-2.png)
 
 ### 3. To Do Page
   
@@ -68,7 +63,6 @@ Once a user is logged in, there will be a persistent navigation bar.
       - c. Show completed today - display completed task with date of today
       - d. Show incomplete
 
-![Sample](src/assets/readme-3.png)
 
 ## Implementation Notes
 
